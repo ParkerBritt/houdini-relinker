@@ -70,7 +70,7 @@ class MainWindow(QDialog):
                 base_file_parm_map[base_name]["parms"].append(parm)
             self.list_widget.addItem(base_name)
 
-        search_path = "/mnt/bulk_hdd/eduardo_project/From_Viktor"
+        search_path = "/base/path"
         hip_root_path = os.path.dirname(hou.hipFile.path())
         for root, dirs, files in os.walk(search_path):
             for file in files:
