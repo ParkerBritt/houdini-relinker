@@ -1,7 +1,7 @@
 <h1 align="center">Houdini Path Relinker</h1>
 <div align="center">
-  <a href="https://github.com/search?q=owner%3AParkerBritt+topic%3Ahoudini&type=repositories"><img src="https://parkerbritt.com/badge?label=houdini&icon=houdini&color=FF4713"></a>
-  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://parkerbritt.com/badge?label=python&icon=python&color=3776AB"></a>
+  <a href="https://github.com/search?q=owner%3AParkerBritt+topic%3Ahoudini&type=repositories"><img src="https://cards.parkerbritt.com/badge?label=houdini&icon=houdini&color=FF4713"></a>
+  <a href="https://github.com/ParkerBritt?tab=repositories&q=&type=&language=python&sort="><img src="https://cards.parkerbritt.com/badge?label=python&icon=python&color=3776AB"></a>
  </div>
 
 <div align="justify">
